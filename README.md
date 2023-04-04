@@ -1,5 +1,5 @@
 # download-pdfs
-a little command line program to download the pdfs of a given url
+a little command line program to download the pdfs for a given url
 
 ## Purpose
 A little program I made so I can download the pdf files in a given web page; I often have to do it manually whenever I find course material on the web; for example
